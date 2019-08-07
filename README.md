@@ -1,2 +1,0 @@
-# anagrams
-Created with CodeSandbox
